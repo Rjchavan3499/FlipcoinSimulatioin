@@ -30,4 +30,4 @@ echo "count of Head Singlet: " $j
 echo "count of Tail Singlet: " $k
 echo $j | awk '{ per=$j/11*100; printf"%0.2f\n",per }'
 echo $k | awk '{ per=$k/11*100; printf"%0.2f\n",per }'
-[09/11, 1:35 AM] Sai Krishna Bridgelabz: #!/bin/bash
+
